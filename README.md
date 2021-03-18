@@ -6,7 +6,7 @@ Password lists are going back to the roots of information security. They compile
 
 ## Background
 
-We are using a dedicated infrastructure to collect, import, and analyze leaked passwords. This system helps us to determine and alert customers affected by certain data breaches. It also supports us to do further analysis of password structrues, to understand motivations and decisions by users.
+We are using a dedicated infrastructure to collect, import, and analyze leaked passwords. This system helps us to determine and alert customers affected by certain data breaches. It also supports us to do further analysis of password structures, to understand motivations and decisions by users.
 
 ## Approach
 
