@@ -16,7 +16,7 @@ Our password lists are based on our statistical analysis and are an important pa
 * by countries (tld, association, meta data)
 * by popular domains (domains, sub-domains)
 * by popular organizations (tld, domains, sub-domains)
-* numeric passwords + PINs
+* numeric passwords (PINs, years, DDMM)
 
 ## Structure
 
