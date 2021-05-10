@@ -20,6 +20,6 @@ Our password lists are based on our statistical analysis and are an important pa
 
 ## Structure
 
-The password lists are ordered by descending popularity. The most popular passwords of a dedicated group are on top of the list. We do only include passwords which were used by at least three different accounts to prevent highly unique or otherwise personally identifying passwords. All passwords are known to be leaked and available to the public.
+The password lists are ordered by descending popularity. The most popular passwords of a dedicated group are on top of the list. We do only include passwords which were used by at least two different accounts to prevent highly unique or otherwise personally identifying passwords. All passwords are known to be leaked and available to the public.
 
 More information about statistical details are available [in our article](https://www.scip.ch/en/?labs.20210415).
