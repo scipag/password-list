@@ -6,7 +6,7 @@ Password lists are going back to the roots of information security. They compile
 
 ## Background
 
-We are using a dedicated infrastructure to collect, import, and analyze leaked passwords. This system helps us to determine and alert customers affected by certain data breaches. It also supports us to do further analysis of password structures, to understand motivations and decisions by users. Details about collecting, processing and importing password leaks are discussed [in our article](https://www.scip.ch/en/?labs.20210722).
+We are using a dedicated infrastructure to collect, import, and analyze leaked passwords. This system helps us to determine and alert customers affected by certain data breaches. It also supports us to do further analysis of password structures, to understand motivations and decisions by users. Details about collecting, processing and importing password leaks are discussed [in our article](https://www.scip.ch/en/?labs.20210715).
 
 ## Approach
 
